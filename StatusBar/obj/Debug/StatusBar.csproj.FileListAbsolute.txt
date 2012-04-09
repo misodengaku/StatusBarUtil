@@ -1,0 +1,7 @@
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\StatusBar\Bin\Debug\StatusBar.dll
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\StatusBar\Bin\Debug\StatusBar.pdb
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\StatusBar\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\StatusBar\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\StatusBar\obj\Debug\ResolveAssemblyReference.cache
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\StatusBar\obj\Debug\StatusBar.dll
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\StatusBar\obj\Debug\StatusBar.pdb

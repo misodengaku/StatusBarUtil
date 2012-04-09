@@ -1,0 +1,15 @@
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\Bin\Debug\ApplicationIcon.png
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\Bin\Debug\Background.png
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\Bin\Debug\TestApp.dll
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\Bin\Debug\TestApp.pdb
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\Bin\Debug\AppManifest.xaml
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\Bin\Debug\TestApp.xap
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\Bin\Debug\StatusBar.dll
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\Bin\Debug\StatusBar.pdb
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\obj\Debug\ResolveAssemblyReference.cache
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\obj\Debug\App.g.i.cs
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\obj\Debug\MainPage.g.i.cs
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\obj\Debug\TestApp.g.resources
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\obj\Debug\TestApp.dll
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\obj\Debug\TestApp.pdb
+c:\users\miso\documents\visual studio 2010\Projects\StatusBar\TestApp\obj\Debug\XapCacheFile.xml
